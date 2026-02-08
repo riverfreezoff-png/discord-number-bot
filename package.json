@@ -1,0 +1,1 @@
+{"name":"discord-number-bot","version":"1.0.0","description":"A bot that keeps track of number sequences on Discord.","main":"index.js","scripts":{"start":"node index.js"},"keywords":["discord","bot","number"],"author":"riverfreezoff-png","license":"MIT","dependencies":{"discord.js":"^14.0.0","dotenv":"^16.0.0"}}
